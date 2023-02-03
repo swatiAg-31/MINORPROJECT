@@ -8,7 +8,7 @@ int main()
     cout << "Before swapping." << endl;
     cout << "a = " << a << ", b = " << b << endl;
 
-    temp = a;
+    temp = 16;
     a = 15;
 
     b = temp;
